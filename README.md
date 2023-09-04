@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Khoudir
-- 🏢 I’m a freelancer React, Node Developer
+- 🏢 I’m a React, Node Developer
 - ⚙️ I love to code in JavaScript and Node.js
 - 🍇 I am a huge fan of JAMStacks
 - 🌱 I'm now learning Typescript on Matt Pocock's totaltypescript.com.
