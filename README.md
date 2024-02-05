@@ -1,8 +1,7 @@
 # 👋 Hi, I’m Khoudir
 - 🏢 I’m a React, Node Developer
 - ⚙️ I love to code in JavaScript and Node.js
-- 🍇 I am a huge fan of JAMStacks
-- 🌱 I'm now learning Typescript on Matt Pocock's totaltypescript.com.
+
 
 ### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=yakhousam&show_icons=true&theme=vue" alt="github stats" width="45%"/>
